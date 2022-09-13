@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @uday0097
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m uday
+- 👀 I’m interested in top technologies
+- 🌱 I’m currently learning Full stack developer
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me on mail id: udaynani277@gmail.com
 
 <!---
 uday0097/uday0097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
