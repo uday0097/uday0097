@@ -1,6 +1,6 @@
 - 👋 Hi, I’m uday
 - 👀 I’m interested in top technologies
-- 🌱 I’m currently learning Full stack developer and AI 
+- 🌱 I’m currently working on  Data Migration  and AI projects
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me on mail id: udaynani277@gmail.com  and mobile number: 8919400755
 
